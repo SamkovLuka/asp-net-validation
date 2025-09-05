@@ -1,0 +1,33 @@
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.staticwebassets.endpoints.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.exe
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.deps.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.runtimeconfig.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.dll
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\bin\Debug\net8.0\asp mvc intro.pdb
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.AssemblyInfo.cs
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\scopedcss\bundle\asp mvc intro.styles.css
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\scopedcss\projectbundle\asp mvc intro.bundle.scp.css
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.dll
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\refint\asp mvc intro.dll
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.pdb
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\asp mvc intro.genruntimeconfig.cache
+C:\Users\Admin\source\repos\asp mvc intro\asp mvc intro\obj\Debug\net8.0\ref\asp mvc intro.dll
